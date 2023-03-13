@@ -58,7 +58,7 @@ export default function ResponsiveGrid() {
           <Card sx={{ width:200,height:170,
               backgroundColor:'rgb(120, 118, 238)',
               color:'white',borderRadius:5,position:'absolute',marginTop:3}}>
-              <Typography variant="h5" mt={2} ml={3}>Play</Typography>     
+              <Typography variant="h5" mt={2} ml={3}>Pla</Typography>     
               <Typography variant="h2" ml={3}>4hrs</Typography>
               <Typography ml={3}>Last Week - 5hrs</Typography>
             </Card>
